@@ -101,9 +101,11 @@ main .intro {
   margin-bottom: 120px;
   }
 
- #contact {
+ #contact, #portfolio {
    margin-bottom: 40px;
  } 
+
+
 /* ABOUT ARTICLE */
 
 #about {
@@ -117,6 +119,18 @@ main .intro {
     margin-right: auto;
     height: 500px;
     width: 500px;
+}
+
+/*    PORTFOLIO PROJECTS    */
+
+#portfolio{
+  background-color: lightgray;
+  padding: 20px 0 30px 0;
+  margin: 102px 0;
+}
+
+#portfolio p {
+  text-align: center;
 }
 
 /* CONTACT FORM */
